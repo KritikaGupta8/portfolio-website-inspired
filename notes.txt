@@ -1,0 +1,24 @@
+viewport height(vh) - screen height
+
+
+- display: flex;
+Ye bolta hai ki element ek flexbox container ban jaaye. Matlab uske andar ke items flexible layout mein arrange honge.
+- align-items: center;
+Ye vertical direction mein (cross-axis) items ko center mein laata hai. Agar box ki height zyada hai, to andar ke elements upar‑neeche ke beech mein aa jaayenge.
+- justify-content: center;
+Ye horizontal direction mein (main-axis) items ko center karta hai. Matlab left aur right ke beech mein content aa jaayega.
+
+
+remixicon.com => website for getting icons
+
+
+
+
+-> for js we will use:
+1) smooth scrolling
+step-1: attach loco scroll cross
+step-2: attach locomotive scroll min js
+step-3: some code from loco github for js
+
+2) gsap
+3) scrolltrigger
